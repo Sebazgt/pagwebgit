@@ -1,0 +1,25 @@
+
+  .h2{
+  	size:20px;
+    text-decoration-line;
+		text-align: center;
+		text-decoration-color:blue;
+		}
+		
+	#div1{
+		background-color:yellow;
+		width:500px;
+		height:120px;
+		border:1px solid;
+		border-radius:3px;
+		text-align: center;
+	}
+	
+  #div2{
+		background-color:pink;
+		width:500px;
+		height:120px;
+		border:1px solid;
+		border-radius:3px;
+		text-align: center;
+	}
